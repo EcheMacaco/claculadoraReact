@@ -41,7 +41,7 @@ function App() {
           </div>
           <div className="fila">
           <Boton manejarClic={agregarInput}>7</Boton>
-            <Boton>8</Boton>
+            <Boton manejarClic={agregarInput}>8</Boton>
             <Boton manejarClic={agregarInput}>9</Boton>
             <Boton manejarClic={agregarInput}>*</Boton>
           </div>
